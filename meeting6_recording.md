@@ -1,6 +1,7 @@
 ---
 title: Recording
-parent: Sixth Meeting, Monday January 18
+parent: 6. Meeting, Jan 18 2021
+grand_parent: Meeting Notes
 has_children: false
 nav_order: 2
 ---

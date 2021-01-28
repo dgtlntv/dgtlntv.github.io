@@ -1,6 +1,7 @@
 ---
 title: Recording
-parent: First Meeting, Thursday October 29 2020
+parent: 1. Meeting, Oct 29 2020
+grand_parent: Meeting Notes
 has_children: false
 nav_order: 2
 ---

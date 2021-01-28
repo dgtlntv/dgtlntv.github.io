@@ -1,6 +1,7 @@
 ---
 title: Recording
-parent: Third Meeting, Monday November 23 2020
+parent: 3. Meeting, Nov 23 2020
+grand_parent: Meeting Notes
 has_children: false
 nav_order: 2
 ---
