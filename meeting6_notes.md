@@ -1,6 +1,6 @@
 ---
 title: Full Notes
-parent: Sixth Meeting, Monday January 18
+parent: 6. Meeting, Jan 18 2021
 has_children: false
 nav_order: 1
 ---

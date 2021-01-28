@@ -1,6 +1,6 @@
 ---
 title: Full Notes
-parent: Fourth Meeting, Monday December 7 2020
+parent: 4. Meeting, Dec 7 2020
 has_children: false
 nav_order: 1
 ---

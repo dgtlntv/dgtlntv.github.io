@@ -1,6 +1,6 @@
 ---
 title: Full Notes
-parent: Fifth Meeting, Monday December 21 2020
+parent: 5. Meeting, Dec 21 2020
 has_children: false
 nav_order: 1
 ---

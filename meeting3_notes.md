@@ -1,6 +1,6 @@
 ---
 title: Full Notes
-parent: Third Meeting, Monday November 23 2020
+parent: 3. Meeting, Nov 23 2020
 has_children: false
 nav_order: 1
 ---
