@@ -1,5 +1,5 @@
 ---
-title: meeting 2
+title: Second Meeting: Friday, November 13
 parent: meetings
 has_children: false
 nav_order: 2

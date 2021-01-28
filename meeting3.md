@@ -1,5 +1,5 @@
 ---
-title: meeting 3
+title: Third Meeting: Monday, November 23
 parent: meetings
 has_children: false
 nav_order: 3

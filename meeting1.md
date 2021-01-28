@@ -1,3 +1,10 @@
+---
+title: First Meeting: Thursday, October 29
+parent: meetings
+has_children: false
+nav_order: 1
+---
+
 # First Meeting: Thursday, October 29
 
 ## Attending:
