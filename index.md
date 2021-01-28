@@ -4,7 +4,7 @@ has_children: false
 nav_order: 1
 ---
 
-# ICF user experience working group
+# ICF UX Working Group
 
 ## Misson Statement
 Highlight the emerging challenges that must be addressed to ensure high-quality user experiences (UX) and developer experiences (DX) on an IBC connected Internet of Blockchains. We want to build standards and appliations for a better UX/DX  through a collaborative, open dialogue.
