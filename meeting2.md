@@ -1,5 +1,5 @@
 ---
-title: Second Meeting, Friday November 13 2020
+title: 2. Meeting, Nov 13 2020
 parent: Meeting Notes
 has_children: true
 nav_order: 2

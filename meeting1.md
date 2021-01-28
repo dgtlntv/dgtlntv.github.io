@@ -1,5 +1,5 @@
 ---
-title: First Meeting, Thursday October 29 2020
+title: 1. Meeting, Oct 29 2020
 parent: Meeting Notes
 has_children: true
 nav_order: 1

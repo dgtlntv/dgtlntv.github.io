@@ -1,5 +1,5 @@
 ---
-title: Third Meeting, Monday November 23 2020
+title: 3. Meeting, Nov 23 2020
 parent: Meeting Notes
 has_children: true
 nav_order: 3
