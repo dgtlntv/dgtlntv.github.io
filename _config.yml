@@ -2,5 +2,5 @@ title: "ICF UX WG"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 aux_links:
-  <i class="fa fa-github" style="font-size:36px"></i>"Just the Docs on GitHub":
+  <i class="fa fa-github" style="font-size:36px"></i> <i style="font-size:24px" class="fa">&#xf09b;</i> "Just the Docs on GitHub":
     - "//github.com/pmarsceill/just-the-docs"
