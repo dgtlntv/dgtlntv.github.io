@@ -1,6 +1,6 @@
 ---
 title: Fifth Meeting
-parent: meetings
+parent: Meeting Notes
 has_children: false
 nav_order: 5
 ---

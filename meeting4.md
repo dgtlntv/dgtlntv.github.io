@@ -1,6 +1,6 @@
 ---
 title: Fourth Meeting
-parent: meetings
+parent: Meeting Notes
 has_children: false
 nav_order: 4
 ---
