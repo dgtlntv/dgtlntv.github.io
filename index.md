@@ -23,13 +23,13 @@ We focus on:
 
 Join the  [telegram group](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg) and build the internet of Blockchains.
 
-## Upcoming Meetings
+# Upcoming Meetings
 The next meeting will be on:
-### Monday, February 1st 2021, 3:00 – 4:00pm UTC
+## Monday, February 1st 2021, 3:00 – 4:00pm UTC
 
-#### Talking points of this Meeting
+### Talking points of this Meeting
 
 TBD
 
-## Join our socials!
+# Join our socials!
 <a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><img src="/icons/telegram_icon.png" style="width:40px;height:40px;"></a>
