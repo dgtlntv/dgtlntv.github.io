@@ -1,5 +1,5 @@
 ---
-title: First Meeting: Thursday, October 29
+title: First Meeting
 parent: meetings
 has_children: false
 nav_order: 1

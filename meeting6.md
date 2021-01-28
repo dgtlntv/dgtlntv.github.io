@@ -1,5 +1,5 @@
 ---
-title: Sixth Meeting: Monday, Jan 18
+title: Sixth Meeting
 parent: meetings
 has_children: false
 nav_order: 6
