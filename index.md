@@ -31,5 +31,5 @@ The next meeting will be on:
 
 TBD
 
-# Join our socials!
+# Join our discussions!
 <a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><img src="/icons/telegram_icon.png" style="width:40px;height:40px;"></a>
