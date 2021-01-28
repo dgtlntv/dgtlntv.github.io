@@ -4,7 +4,16 @@ has_children: false
 nav_order: 1
 ---
 
+
 # ICF UX Working Group
+{: .fs-9 }
+
+Highlight the emerging challenges that must be addressed to ensure high-quality user experiences (UX) and developer experiences (DX) on an IBC connected Internet of Blockchains. We want to build standards and appliations for a better UX/DX  through a collaborative, open dialogue.
+{: .fs-6 .fw-300 }
+
+[Read Notes of previous Meetings](https://dgtlntv.github.io/meeting_notes/meetings.html#meeting-notes){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/apeunit/interchain.neueux.com){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
 
 ## Misson Statement
 Highlight the emerging challenges that must be addressed to ensure high-quality user experiences (UX) and developer experiences (DX) on an IBC connected Internet of Blockchains. We want to build standards and appliations for a better UX/DX  through a collaborative, open dialogue.
@@ -25,4 +34,5 @@ The next meeting will be on:
 
 TBD
 
+## Join our socials!
 <a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><img src="/icons/telegram_icon.png" style="width:50px;height:50px;"></a>
