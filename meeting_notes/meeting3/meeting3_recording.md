@@ -6,4 +6,4 @@ has_children: false
 nav_order: 2
 ---
 
-Embed
+For this meeting no recording was made.

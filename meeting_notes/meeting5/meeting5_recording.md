@@ -6,4 +6,4 @@ has_children: false
 nav_order: 2
 ---
 
-Embed
+[![Recording](https://img.youtube.com/vi/VgZf94TaeDA/0.jpg)](https://www.youtube.com/watch?v=VgZf94TaeDA)
