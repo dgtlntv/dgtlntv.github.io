@@ -15,10 +15,7 @@ Highlight the emerging challenges that must be addressed to ensure high-quality 
 
 ---
 
-## Misson Statement
-Highlight the emerging challenges that must be addressed to ensure high-quality user experiences (UX) and developer experiences (DX) on an IBC connected Internet of Blockchains. We want to build standards and appliations for a better UX/DX  through a collaborative, open dialogue.
-
-This includes:
+We focus on:
 * End User Experience
 * Developer Experience
 * Namespacing Chains and Assets
