@@ -32,7 +32,4 @@ The next meeting will be on:
 TBD
 
 # Join our discussions!
-<a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><i class="fa fa-telegram" style="font-size:36px" aria-hidden="true"></i></a>
-
-
-<i class="fa fa-github" style="font-size:36px">
+<a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><i class="fa fa-telegram" style="font-size:36px" aria-hidden="true"></i></a>   <a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><i class="fa fa-github" style="font-size:36px"></i></a>
