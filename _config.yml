@@ -1,4 +1,6 @@
 title: "ICF UX WG"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
-aux_links: "Edit on Github!": - "https://github.com/apeunit/interchain.neueux.com"
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
