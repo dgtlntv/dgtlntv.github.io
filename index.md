@@ -1,3 +1,9 @@
+---
+title: Home
+has_children: false
+nav_order: 1
+---
+
 # ICF user experience working group
 
 ## Misson Statement
