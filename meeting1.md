@@ -5,7 +5,7 @@ has_children: true
 nav_order: 1
 ---
 
-# First Meeting: Thursday, October 29 2020
+# 1. Meeting, Oct 29 2020
 
 Reviewing existing [Chain Agnostic Improvement Proposals (CAIP)](https://github.com/ChainAgnostic/CAIPs) which touch on multi-chain assets.
 
