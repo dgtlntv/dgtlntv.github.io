@@ -1,10 +1,10 @@
 ---
-title: Test
+title: meetings
 has_children: true
 nav_order: 2
 ---
 
-# Another page
+# parent of meetings
 
 Test this
 
