@@ -32,6 +32,7 @@ The next meeting will be on:
 TBD
 
 # Join our discussions!
-<a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><img src="/icons/telegram_icon.png" style="width:40px;height:40px;"></a>
-test
-<i class="fa fa-github" style="font-size:36px"></i> <i style="font-size:24px" class="fa">&#xf09b;</i>
+<a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><i class="fa fa-telegram" style="font-size:36px" aria-hidden="true"></i></a>
+
+
+<i class="fa fa-github" style="font-size:36px">

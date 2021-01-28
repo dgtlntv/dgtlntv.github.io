@@ -2,5 +2,5 @@ title: "ICF UX WG"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 aux_links:
-  test2 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> <i class="fa fa-github" style="font-size:36px"></i> <i style="font-size:24px" class="fa">&#xf09b;</i> "Edit on GitHub":
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> <i class="fa fa-github" style="font-size:36px"></i>"Edit on GitHub":
     - "https://github.com/apeunit/interchain.neueux.com"
