@@ -25,6 +25,4 @@ The next meeting will be on:
 
 TBD
 
-[<img src="/icons/telegram_icon.png">](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg)
-
-#### [Telegram Invite Link](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg)
+<a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><img src="/icons/telegram_icon.png" style="width:50px;height:50px;"></a>
